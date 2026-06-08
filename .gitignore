@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE/editor
+.idea/
+.vscode/
+
+# Local data and generated ML artifacts
+data/
+*.pth
+*.pt
+*.ckpt
+training_curves.png
+
+# OS files
+Thumbs.db
+.DS_Store
