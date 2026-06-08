@@ -20,6 +20,7 @@ data/
 *.pt
 *.ckpt
 training_curves.png
+作业二/runs/
 
 # OS files
 Thumbs.db

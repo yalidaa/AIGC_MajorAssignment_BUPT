@@ -1,0 +1,8 @@
+torch
+torchvision
+numpy
+matplotlib
+scikit-learn
+
+# Optional official Mamba backend. Install after CUDA-enabled PyTorch exists.
+mamba-ssm[causal-conv1d]
